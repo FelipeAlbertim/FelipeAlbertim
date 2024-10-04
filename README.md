@@ -1,38 +1,34 @@
 # 👋 Olá! Eu sou o Felipe Albertim
 
 ## 🚀 Sobre Mim
-Sou apaixonado por desenvolvimento backend, trabalhando como desenvolvedor no **BRADESCO** e sempre em busca de novos desafios no mundo da programação. Meu foco principal está em **Java**, **Node.js** e containers com **Docker**, com projetos empolgantes que envolvem ambientes em nuvem, como **AWS EC2**.
+Sou apaixonado por desenvolvimento backend, estagiando como desenvolvedor no **Banco Bradesco S.A.**, sempre em busca de novos desafios no mundo da programação. Atualmente, meu foco principal está em **Java**, **SpringBoot**, **MainFrame**, **COBOL** e **Infraestrutura em Cloud**. 
 
-Adoro **resolver problemas** e estou constantemente aprimorando minhas habilidades em automação de processos e construção de sistemas robustos. Gosto de aprender novas tecnologias e aplicá-las tanto nos meus projetos profissionais quanto acadêmicos.
+Também tenho experiência com **Node.js**, containers com **Docker**, e projetos empolgantes que envolvem ambientes em nuvem, como **AWS EC2**.
 
 ## 🔧 Tecnologias e Ferramentas
 Aqui estão algumas das principais tecnologias e ferramentas com as quais trabalho:
 
-- **Backend:** Java, Node.js, Express
-- **Frontend:** HTML, CSS, JavaScript
-- **Bancos de Dados:** MySQL, MongoDB
-- **Containers:** Docker
-- **Nuvem:** AWS EC2, S3
-- **Controle de Versão:** Git, GitHub
-- **Outras Ferramentas:** Apache POI, Lombok, Maven, CI/CD
+- **Backend:** C#, Java, SpringBoot, COBOL, Node.js
+- **MainFrame:** IBM Mainframe
+- **Infraestrutura:** Docker, Kubernetes, AWS EC2, S3
+- **Bancos de Dados:** MySQL
+- **Versionamento:** Git, GitHub
+- **Outras Ferramentas:** Apache POI, Lombok, Maven
 
 ## 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub do Felipe](https://github-readme-stats.vercel.app/api?username=FelipeAlbertim&show_icons=true&theme=radical)
 
 ## 📂 Projetos Notáveis
 
-### 🖥️ [S.O.S. RUC](https://github.com/FelipeAlbertim/SOS-RUC)
-Uma plataforma de ensino a distância com serviços backend desenvolvidos em Java e frontend construído com HTML/CSS/JS.
+### 🌟 [Projeto Individual](https://github.com/FelipeAlbertim/Projeto-Individual)
+Um projeto desenvolvido individualmente, que combina **Front-End** com **HTML**, **CSS** e **JavaScript**, e **Back-End** utilizando **Node.js**. Nesse projeto, implementei diversas funcionalidades de backend e integrei um banco de dados **MySQL**. Além disso, apliquei conceitos de infraestrutura, hospedando o projeto em uma instância virtual com containers separados para o site e o banco de dados, garantindo uma arquitetura robusta e escalável.
 
-### 🔄 [Ambiente Automatizado com Docker](https://github.com/FelipeAlbertim/docker-environment-automation)
-Um sistema baseado em Docker que automatiza a configuração de containers Node.js, Java e MySQL, implantado na AWS EC2.
-
-### ✈️ [Gerenciamento de Dados de Voos](https://github.com/FelipeAlbertim/flight-data-management)
+### ✈️ [Gerenciamento de Dados de Voos](https://github.com/Alianza-G6/back-alianza)
 Projeto para gerenciar dados de voos, utilizando Apache POI para processamento de CSV e Lombok para código Java mais limpo.
 
 ## 🎮 Hobbies
 Nas horas vagas, gosto de jogar **VALORANT**, onde combino estratégia com reflexos rápidos, assim como faço na programação!
 
 ## 📫 Como me encontrar
-- LinkedIn: [Felipe Albertim](https://www.linkedin.com/in/felipealbertim/)
-- E-mail: felipe.albertim@example.com
+- LinkedIn: [Felipe Albertim](https://www.linkedin.com/in/felipe-ferreira-albertim/)
+- E-mail: felipe.ferreira.albertim@gmail.com
