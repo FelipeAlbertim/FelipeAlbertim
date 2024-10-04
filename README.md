@@ -24,7 +24,7 @@ Aqui estão algumas das principais tecnologias e ferramentas com as quais trabal
 Um projeto desenvolvido individualmente, que combina **Front-End** com **HTML**, **CSS** e **JavaScript**, e **Back-End** utilizando **Node.js**. Nesse projeto, implementei diversas funcionalidades de backend e integrei um banco de dados **MySQL**. Além disso, apliquei conceitos de infraestrutura, hospedando o projeto em uma instância virtual com containers separados para o site e o banco de dados, garantindo uma arquitetura robusta e escalável.
 
 ### ✈️ [Gerenciamento de Dados de Voos](https://github.com/Alianza-G6/back-alianza)
-Projeto para gerenciar dados de voos, utilizando Apache POI para processamento de CSV e Lombok para código Java mais limpo.
+Desenvolvimento de um sistema backend em Java para gerenciar dados de voos, utilizando Apache POI para leitura e processamento de arquivos CSV. O sistema realiza ETL (Extração, Transformação e Carga) para inserir os dados em um banco de dados relacional, suportando operações de CRUD e registrando logs das operações de leitura e carga.
 
 ## 🎮 Hobbies
 Nas horas vagas, gosto de jogar **VALORANT**, onde combino estratégia com reflexos rápidos, assim como faço na programação!
